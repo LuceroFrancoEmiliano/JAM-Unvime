@@ -1,0 +1,11 @@
+# Dependencias y logs
+node_modules/
+*.log
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
+
+# Temporales
+scratch/
+.system_generated/
